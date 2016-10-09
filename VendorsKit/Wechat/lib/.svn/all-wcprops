@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/app-ios-buyer-phone/!svn/ver/2032/trunk/buyer/Librarys/Wechat/lib
+END
+ApiXml.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/app-ios-buyer-phone/!svn/ver/361/trunk/buyer/Librarys/Wechat/lib/ApiXml.h
+END
+ApiXml.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/app-ios-buyer-phone/!svn/ver/361/trunk/buyer/Librarys/Wechat/lib/ApiXml.mm
+END
+WXUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/app-ios-buyer-phone/!svn/ver/361/trunk/buyer/Librarys/Wechat/lib/WXUtil.h
+END
+WXUtil.mm
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/app-ios-buyer-phone/!svn/ver/361/trunk/buyer/Librarys/Wechat/lib/WXUtil.mm
+END
+payRequsestHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/app-ios-buyer-phone/!svn/ver/2032/trunk/buyer/Librarys/Wechat/lib/payRequsestHandler.h
+END
+payRequsestHandler.mm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/app-ios-buyer-phone/!svn/ver/361/trunk/buyer/Librarys/Wechat/lib/payRequsestHandler.mm
+END
