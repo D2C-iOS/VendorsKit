@@ -40,29 +40,6 @@
 
 
 
-//支付结果回调页面
-#define NOTIFY_URL      [PayNotifyURL stringByAppendingString:@"/weixinNotify"]//@"mm.demo.d2cmall.com/weixinNotify"
-
-
-// 账号帐户资料
-//更改商户把相关参数后可测试
-/*
-#define APP_ID          @"wxc65054e7ea55fbf0"               //APPID
-#define APP_SECRET      @"337cd3ef122ac9354d52bac17385e489" //appsecret
-//商户号
-#define MCH_ID          @"1238141802"
-//商户API密钥
-#define PARTNER_ID      @"d2cd2cd2cd2cd2cd2cd2cd2cd2cd2c12"
-*/
-#define APP_ID      @"wxb74d14eb16859ed9"
-#define APP_SECRET  @"d4624c36b6795d1d99dcf0547af5443d"
-#define MCH_ID      @"1286659301"
-#define PARTNER_ID  @"hkoughiuyfjhbvcdlou875412jh879ij"
-
-//获取服务器端支付数据地址（商户自定义）
-#define SP_URL          @"http://wxpay.weixin.qq.com/pub_v2/app/app_pay.php"
-
-
 @interface payRequsestHandler : NSObject{
 	//预支付网关url地址
     NSString *payUrl;
